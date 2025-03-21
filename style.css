@@ -142,6 +142,7 @@ input:focus {
     color: var(--Red);
     font-size: 0.8rem;
     display: none;
+    font-style: italic;
 }
 
 
